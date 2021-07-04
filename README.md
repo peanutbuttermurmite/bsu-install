@@ -3,7 +3,7 @@ Install BSU with ease
 Debian and Ubuntu supported
 Simply copy and paste the below code:
 
-sudo apt-get install git bash
+sudo apt-get install git bash -y
 
 git clone https://github.com/peanutbuttermurmite/bsu-install.git
 
