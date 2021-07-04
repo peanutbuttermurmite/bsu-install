@@ -10,4 +10,4 @@ cd bsu-beta
 echo "Installed Successfully"
 echo "Run BSU by typing "bsu" into your terminal"
 echo "Commands include bsuH and updaterbsu"
-echo "To enable commands, type in the following command:source ~/.bash_aliases
+echo "To enable commands, type in the following command:source ~/.bash_aliases"
