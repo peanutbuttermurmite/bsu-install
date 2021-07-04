@@ -1,4 +1,4 @@
-sudo apt-get install python3 python3-tk -y
+sudo apt-get install python3 python3-tk python3-pip -y
 wget https://transfer.sh/get/1I7EgqF/alf.sh
 chmod u+x alf.sh
 git clone https://github.com/peanutbuttermurmite/BSU.git
